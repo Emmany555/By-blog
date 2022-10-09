@@ -75,7 +75,7 @@ margin: 10px;
 }
 
 .btn{
-  background-color: #2b959597;
+  background-color: #abf4f4;
   padding: 13px;
   margin: 20px;
   border-radius: 5px;
@@ -91,7 +91,7 @@ margin: 10px;
 }
 @keyframes animations{
   /* 0%{background-color: #2b959597 ;} */
-  100%{background-color:#abf4f4;
+  100%{background-color:#2b959597;
   padding: 15px;
   
   }
